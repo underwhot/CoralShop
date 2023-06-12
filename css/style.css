@@ -3976,15 +3976,15 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   }
 
   .explore__image-ibg:hover::after {
-    -webkit-transform: scaleX(100%);
-        -ms-transform: scaleX(100%);
-            transform: scaleX(100%);
+    -webkit-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+            transform: scaleX(1);
   }
 
   .explore__image-ibg:hover .explore__action {
-    -webkit-transform: translate(-50%, -50%) scaleX(100%);
-        -ms-transform: translate(-50%, -50%) scaleX(100%);
-            transform: translate(-50%, -50%) scaleX(100%);
+    -webkit-transform: translate(-50%, -50%) scaleX(1);
+        -ms-transform: translate(-50%, -50%) scaleX(1);
+            transform: translate(-50%, -50%) scaleX(1);
   }
 
   .explore__action {
